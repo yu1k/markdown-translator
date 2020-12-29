@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": "git@github.com:yu1k/markdown-translator.git",
   "author": "yu1k <48705423+yu1k@users.noreply.github.com>",
-  "license": "MIT",
+  "license": "",
   "dependencies": {
     "marked": "1.0.0"
   }
