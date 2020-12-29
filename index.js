@@ -26,6 +26,6 @@ fs.readFile(filePath, {
         fs.writeFileSync(newFilePath, html);
         console.log(filePath + "から" + newFilePath + "に変換完了");
     }catch(e){
-        console.log(e);
+        console.error(e);
     }
 });
