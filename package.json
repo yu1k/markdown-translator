@@ -6,6 +6,7 @@
   "author": "yu1k <48705423+yu1k@users.noreply.github.com>",
   "license": "",
   "dependencies": {
+    "commander": "5.0",
     "marked": "1.0.0"
   }
 }
